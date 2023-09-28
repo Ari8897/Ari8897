@@ -1,16 +1,28 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! :chart_with_upwards_trend:
 
-<!--
-**Ari8897/Ari8897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Analysis](.jpg)
 
-Here are some ideas to get you started:
+I'm a passionate data analyst with a strong background in data exploration and visualization. I love working with a variety of tools and technologies, including HTML, JavaScript, CSS, Python, SQL, Excel, Access, Power BI, Tableau, Looker, Streamlit, Seaborn, Materialize, and Bootstrap. This is one of my standout projects, and I'm excited to create more in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :rocket: Featured Project
+
+- [Project Name](https://ari8897.github.io/): Brief description of the project.
+
+## :computer: Technologies
+
+Here are some of the technologies I work with:
+
+- HTML JavaScript CSS
+- Python SQL
+- Excel Access 
+- Power BI Tableau Looker
+- Streamlit
+- Seaborn Matplotlib
+- Materialize Bootstrap
+- 
+
+## :email: Get in Touch
+
+Let's connect! You can reach out to me via [email](mailto:arianaspenza@hotmail.com) 
+or follow me on [LinkedIn](https://www.linkedin.com/in/arianasp/)  
+[Twitter](https://twitter.com/ArianaSpenza)
